@@ -1,2 +1,1 @@
-# AppiumBoilerplate
 # Appium-Maven-TestNG

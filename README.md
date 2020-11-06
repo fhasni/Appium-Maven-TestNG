@@ -1,2 +1,2 @@
 # Appium-Maven-TestNG
-Appium Boilerplate project to run tests native iOS and Android applications
+Appium Boilerplate project to run automated tests for native iOS and Android applications
